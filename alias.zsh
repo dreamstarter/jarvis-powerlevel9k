@@ -24,3 +24,4 @@ alias notability="cd /Users/lisa/Google\ Drive/Notability\ Mattia"source /usr/lo
 
 # powerlevel9k
 alias get_all_colors='for code ({000..255}) print -P -- "$code: %F{$code}This is how your text would look like%f"'
+alias zshJarvis="atom /Users/lisa/.oh-my-zsh/custom/jarvis-powerlevel9k"
