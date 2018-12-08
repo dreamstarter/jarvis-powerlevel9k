@@ -67,7 +67,7 @@ POWERLEVEL9K_SHORTEN_DIR_LENGTH=2
 POWERLEVEL9K_BATTERY_STAGES=(
     '\uf579' '\uf57a' '\uf57b' '\uf57c' 'uf57d' '\uf57e' '\uf57f' '\uf580' '\uf581' '\uf578'
 )
-POWERLEVEL9K_BATTERY_CHARGED_FOREGROUND="021"
+POWERLEVEL9K_BATTERY_CHARGED_FOREGROUND="027"
 POWERLEVEL9K_BATTERY_CHARGING_FOREGROUND="014"                  #Color to indicate a charging battery.
 POWERLEVEL9K_BATTERY_LOW_THRESHOLD=10	               #Threshold to consider battery level critical.
 POWERLEVEL9K_BATTERY_LOW_FOREGROUND="160"	               #Color to indicate critically low charge level.
