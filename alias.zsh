@@ -4,6 +4,7 @@
 alias hostsSet="sudo vim /private/etc/hosts"	# modifica gli host bloccati
 
 # apertura programmi
+alias oa="open -a"
 alias atom="open -a Atom"
 alias intellij="open -a IntelliJ\ IDEA\ CE"
 alias pycharm="open -a PyCharm\ CE"
@@ -18,6 +19,8 @@ alias zshatom="open -a Atom ~/.zshrc"
 alias cd+="cd && ls"
 alias cd+a="cd && ls -a"
 alias cc="cd && clear"
+alias c="clear"
+alias la="ls -a"
 
 # cartelle predefinite
 alias university="/Users/lisa/Library/Mobile\ Documents/3L68KQB4HG~com~readdle~CommonDocuments/Documents/Universita"

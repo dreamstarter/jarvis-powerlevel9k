@@ -26,21 +26,15 @@ POWERLEVEL9K_CUSTOM_SEPARATOR_FOREGROUND="black"
 # POWERLEVEL9K_LEFT_PROMPT_ELEMENTS=(
 #     context
 #     dir_writable
-#     newline
-#     custom_separator
 #     dir
 #     # vcs
+#     newline
+#     custom_separator
 # )
 #
 # POWERLEVEL9K_RIGHT_PROMPT_ELEMENTS=(
 #     battery
 #     time
-# )
-# plugins=(
-#   git
-#   osx
-#   python
-#   battery
 # )
 
 # CONTEXT
