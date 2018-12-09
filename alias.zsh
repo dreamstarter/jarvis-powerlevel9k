@@ -17,6 +17,7 @@ alias zshatom="open -a Atom ~/.zshrc"
 # cd --> non funziona
 alias cd+="cd && ls"
 alias cd+a="cd && ls -a"
+alias cc="cd && clear"
 
 # cartelle predefinite
 alias università="cd /Users/lisa/Library/Mobile\ Documents/3L68KQB4HG~com~readdle~CommonDocuments/Documents/Università"
