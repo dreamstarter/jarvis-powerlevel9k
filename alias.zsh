@@ -20,8 +20,9 @@ alias cd+a="cd && ls -a"
 alias cc="cd && clear"
 
 # cartelle predefinite
-alias università="cd /Users/lisa/Library/Mobile\ Documents/3L68KQB4HG~com~readdle~CommonDocuments/Documents/Università"
-alias notability="cd /Users/lisa/Google\ Drive/Notability\ Mattia"
+alias university="/Users/lisa/Library/Mobile\ Documents/3L68KQB4HG~com~readdle~CommonDocuments/Documents/Universita"
+alias notability="/Users/lisa/Google\ Drive/Notability\ Mattia"
+
 # source /usr/local/opt/powerlevel9k@0.6.3/powerlevel9k.zsh-theme
 
 # powerlevel9k
