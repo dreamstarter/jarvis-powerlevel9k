@@ -10,6 +10,8 @@ alias intellij="open -a IntelliJ\ IDEA\ CE"
 alias pycharm="open -a PyCharm\ CE"
 alias matlab="open -a MATLAB_R2018b"
 
+alias social="open -a Telegram | open -a Messages | open -a Slack | open -a WhatsApp"
+
 # gestione zsh
 alias zshconfig="open ~/.zshrc"
 alias zshreload="source ~/.zshrc"
@@ -18,9 +20,13 @@ alias zshatom="open -a Atom ~/.zshrc"
 # cd --> non funziona
 alias cd+="cd && ls"
 alias cd+a="cd && ls -a"
+
+# funzioni di sistema utili
 alias cc="cd && clear"
 alias c="clear"
 alias la="ls -a"
+alias lgi="ls | grep -i"
+alias lg="ls | grep"
 
 # cartelle predefinite
 alias university="/Users/lisa/Library/Mobile\ Documents/3L68KQB4HG~com~readdle~CommonDocuments/Documents/Universita"
