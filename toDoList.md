@@ -1,0 +1,3 @@
+- [ ] rimuovere spazi nel logo per fare quadrare meglio l'angolo
+- [ ] togliere i secondi dall'orologio!!!
+- [ ] inviare messaggi dal terminale!
