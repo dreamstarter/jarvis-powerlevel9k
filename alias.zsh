@@ -13,6 +13,8 @@ alias matlab="open -a MATLAB_R2018b"
 
 alias social="open -a Telegram && open -a Messages && open -a Slack && open -a WhatsApp"
 
+alias shellManual="vim /Users/lisa/Documents/workspace/Shell/comandi.md"
+
 # gestione zsh
 alias zshconfig="open ~/.zshrc"
 alias zshreload="source ~/.zshrc"
@@ -28,7 +30,7 @@ alias c="clear"
 alias la="ls -a"
 alias lgi="ls | grep -i"
 alias lg="ls | grep"
-alias cl="clear | ls"
+alias cl="clear && ls"
 
 # cartelle predefinite
 alias university="/Users/lisa/Library/Mobile\ Documents/3L68KQB4HG~com~readdle~CommonDocuments/Documents/Universita"
